@@ -18,6 +18,7 @@ This is useful to test HTTP requests from a browser (uses OPTIONS, needs CORS) t
 
     go get -u github.com/gonzaloserrano/servejson
 
+Or download the binaries for MacOS or Linux from the [latest release page](https://github.com/gonzaloserrano/servejson/releases/latest).
 ## Why
 
 I wanted to serve a json easily and quickly, not to download the whole internet or configure something complex.
